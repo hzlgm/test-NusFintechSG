@@ -4,6 +4,6 @@ this is a test repository
 
 Hello friends - it's payday soon!
 
-*item 1
-*item 2
+* item 1
+* item 2
 
